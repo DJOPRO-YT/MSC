@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SZProject ToolsVersion="2.0">
+  <Name value="DJ_Server_Config" />
+  <Type value="0" />
+  <FormStart value="WindowsForm1.szw" />
+  <SplashScreen value="" />
+  <StyleXP value="True" />
+  <Instance value="False" />
+  <Assembly.Title value="Minecraft Server Configurator" />
+  <Assembly.Description value="M.S.C" />
+  <Assembly.Socity value="DJOPRO STUDIO" />
+  <Assembly.Product value="Minecraft Server Configurator" />
+  <Assembly.Copyright value="DJOPRO STUDIO © 2023" />
+  <Assembly.FileVersion value="1.0.0.0" />
+  <Assembly.AssemblyVersion value="1.0.0.0" />
+  <Assembly.Mark value="DJOPRO STUDIO" />
+  <Color.Use value="False" />
+  <Color.buttonBorder value="-8807998" />
+  <Color.buttonPressedBegin value="-477846" />
+  <Color.buttonPressedEnd value="-12154" />
+  <Color.buttonPressedMiddle value="-291780" />
+  <Color.buttonSelectedBegin value="-34" />
+  <Color.buttonSelectedEnd value="-13432" />
+  <Color.buttonSelectedMiddle value="-7764" />
+  <Color.checkBack value="-7275" />
+  <Color.contextMenuBack value="-328966" />
+  <Color.gripDark value="-9462311" />
+  <Color.gripLight value="-1" />
+  <Color.imageMargin value="-1446162" />
+  <Color.menuBorder value="-7960954" />
+  <Color.menuItemSelectedBegin value="-10905" />
+  <Color.menuItemSelectedEnd value="-7023" />
+  <Color.menuToolBack value="-4203521" />
+  <Color.overflowBegin value="-5780229" />
+  <Color.overflowEnd value="-10120241" />
+  <Color.overflowMiddle value="-5780229" />
+  <Color.separatorDark value="-6633729" />
+  <Color.separatorLight value="-1" />
+  <Color.statusStripDark value="-5453330" />
+  <Color.statusStripLight value="-2628105" />
+  <Color.toolStripBegin value="-1839105" />
+  <Color.toolStripBorder value="-9462311" />
+  <Color.toolStripContentEnd value="-5979157" />
+  <Color.toolStripEnd value="-6767898" />
+  <Color.toolStripMiddle value="-2167553" />
+  <GenerateDirectory value="Bin" />
+  <Optimize value="True" />
+  <Cpu value="2" />
+  <Debug value="0" />
+  <Variable name="animalls" array="False" description="" />
+  <Variable name="broatcast_op_plr" array="False" description="" />
+  <Variable name="command_block" array="False" description="" />
+  <Variable name="cracked" array="False" description="" />
+  <Variable name="dificility" array="False" description="" />
+  <Variable name="file_exist" array="False" description="" />
+  <Variable name="file_path" array="False" description="" />
+  <Variable name="flyy" array="False" description="" />
+  <Variable name="folder_path" array="False" description="" />
+  <Variable name="force_gamemode" array="False" description="" />
+  <Variable name="force_white_list" array="False" description="" />
+  <Variable name="forge_or_mine_original" array="False" description="" />
+  <Variable name="function_permission_level" array="False" description="" />
+  <Variable name="gamemodee" array="False" description="" />
+  <Variable name="generate_structure" array="False" description="" />
+  <Variable name="generation_seed" array="False" description="" />
+  <Variable name="generatorr" array="False" description="" />
+  <Variable name="hardcoree" array="False" description="" />
+  <Variable name="icon_extention" array="False" description="" />
+  <Variable name="icon_filename" array="False" description="" />
+  <Variable name="icon_path" array="True" description="" />
+  <Variable name="ip_adresse" array="False" description="" />
+  <Variable name="max_build_tall" array="False" description="" />
+  <Variable name="max_world_size" array="False" description="" />
+  <Variable name="maxplrr" array="False" description="" />
+  <Variable name="monsterss" array="False" description="" />
+  <Variable name="netherr" array="False" description="" />
+  <Variable name="op_permission_level" array="False" description="" />
+  <Variable name="port" array="False" description="" />
+  <Variable name="pvpp" array="False" description="" />
+  <Variable name="spawn_protection" array="False" description="" />
+  <Variable name="state_cracked_yes" array="False" description="" />
+  <Variable name="version" array="False" description="" />
+  <Variable name="villgers" array="False" description="" />
+  <Variable name="vue_distance" array="False" description="" />
+  <Variable name="white_list" array="False" description="" />
+  <Variable name="world_description" array="False" description="" />
+  <Variable name="world_name" array="False" description="" />
+  <Variable name="world_type" array="False" description="" />
+  <Reference value="C:\Windows\Microsoft.NET\Framework64\v2.0.50727\mscorlib.dll" name="mscorlib" copy="False" version="2.0.0.0" />
+  <Reference value="C:\Windows\assembly\GAC_MSIL\System\2.0.0.0__b77a5c561934e089\System.dll" name="System" copy="False" version="2.0.0.0" />
+  <Reference value="C:\Windows\assembly\GAC_MSIL\System.Core\3.5.0.0__b77a5c561934e089\System.Core.dll" name="System.Core" copy="False" version="3.5.0.0" />
+  <Reference value="C:\Windows\assembly\GAC_MSIL\System.Drawing\2.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll" name="System.Drawing" copy="False" version="2.0.0.0" />
+  <Reference value="C:\Windows\assembly\GAC_MSIL\System.Windows.Forms\2.0.0.0__b77a5c561934e089\System.Windows.Forms.dll" name="System.Windows.Forms" copy="False" version="2.0.0.0" />
+  <Reference value="C:\Windows\assembly\GAC_MSIL\System.Xml\2.0.0.0__b77a5c561934e089\System.Xml.dll" name="System.Xml" copy="False" version="2.0.0.0" />
+  <Reference value="C:\Windows\assembly\GAC_MSIL\System.Xml.Linq\3.5.0.0__b77a5c561934e089\System.Xml.Linq.dll" name="System.Xml.Linq" copy="False" version="3.5.0.0" />
+</SZProject>
