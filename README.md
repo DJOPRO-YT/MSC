@@ -1,2 +1,2 @@
 # MSC
-Minecraft Server Creator -- by DJOPRO STUDIO
+Minecraft Server Creator -- by DJOPRO_YT
